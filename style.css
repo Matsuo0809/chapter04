@@ -62,7 +62,8 @@ h3{width:220px;
    line-height:70px;
    text-align:center;
    color:darked;
-   background-image:url(images/frame.png);}
+   background-image:url(images/frame.png);
+   float:left;}
 .margin_p{margin-top:45px;
           margin-left:20px;
           color:brown;
@@ -82,7 +83,7 @@ h4{width:200px;
    margin-bottom:10px;
    font-size:20px;
    line-height:60px;
-   color:darked;
+   color:darkred;
    text-align:center;
    border-radius:10px;
    background-image:url(images/goldpanel.png);}

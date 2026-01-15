@@ -36,7 +36,7 @@ nav a{display:block;
       text-align:center;
       color:darkred;
       text-decoration:none;
-      background-image:url(images/gold.png);}
+      background-image:url(../images/gold.png);}
 nav a:hover{color:crimson;
             font-weight:bold;
-            background-image:url(images/silvar.png);}
+            background-image:url(../images/silvar.png);}

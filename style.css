@@ -8,8 +8,9 @@ body{
 h1,h2,h3,h4,p,ul,li{
   margin:0;
   padding:0;}
+#wrap{width:980px;
+      margin:0 auto;}
 header{
-  width:980px;
   color:brown;
   background-color:bisque;
   overflow:hidden;}
@@ -40,8 +41,7 @@ nav a{display:block;
 nav a:hover{color:crimson;
             font-weight:bold;
             background-image:url(images/silvar.png);}
-main{width:960px;
-     padding-top:20px;
+main{padding-top:20px;
      padding-left:20px;
      padding-bottom:20px;
      background-color:antiquewhite;
@@ -95,7 +95,6 @@ h4{width:200px;
         background-color:burlywood;
         float:left;}
 footer{clear:both;
-       width:940px;
        padding:20px;
        text-align:right;
        background-color:bisque;}

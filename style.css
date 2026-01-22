@@ -98,4 +98,15 @@ footer{clear:both;
        padding:20px;
        text-align:right;
        background-color:bisque;}
+table{clear:both;
+      margin-top:20px;
+      margin-bottom:20px;
+      border-collapse:collapse;}
+th,td{border:1px solid #333333;
+      padding:5px;}
+th{width:200px;
+   background-color:firebrick;
+   color:white;}
+td{width:600px;}
+#submit{text-align:right;}
 

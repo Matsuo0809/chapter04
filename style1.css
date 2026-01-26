@@ -110,7 +110,7 @@ th{width:200px;
 td{width:600px;}
 #submit{text-align:right;}
 @media screen and (max-width:979px){
-  #wraap {width:100%;}
+  #wrap {width:100%;}
   #logo{display:block;
         margin:5px auto;
         float:none;}
